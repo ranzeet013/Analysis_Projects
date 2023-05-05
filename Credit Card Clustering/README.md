@@ -13,6 +13,7 @@ Data:
 Methodology:
 .
      The project follows the following steps:
+     .
        1.Data Cleaning and Preprocessing: The dataset is cleaned by handling missing values, duplicate records, and outliers. The dataset is then preprocessed to
                                            normalize and scale the numerical attributes.
                        .                    
@@ -29,11 +30,13 @@ Methodology:
 Deliverables:
 .
           The deliverables of this project include:
+          .
                                           1.A Jupyter notebook containing the code and analysis.
                                           .
                                           2.A report summarizing the findings, including the clusters' characteristics and insights.
                                           .
                                           3.Visualizations of the clusters and their attributes.
+                                          
 Conclusion:
 .
            Clustering credit card customers can provide valuable insights into their behavior and preferences, which can be used to tailor marketing campaigns and 
